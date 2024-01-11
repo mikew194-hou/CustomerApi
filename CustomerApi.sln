@@ -5,10 +5,7 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerApi", "CustomerApi.csproj", "{CAAD6BCF-980B-46DB-8F37-3D7EDA021E11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerClient.Server", "..\CustomerClient\CustomerClient.Server\CustomerClient.Server.csproj", "{AD4E053F-5A7D-4403-B385-96DE144A861A}"
-EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "customerclient.client", "..\CustomerClient\customerclient.client\customerclient.client.esproj", "{D0ACB56D-7E58-4BBF-BDE3-82F975303525}"
-EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
